@@ -1,0 +1,2 @@
+# Real-Time-Gesture-Based-Control-System-Using-Computer-Vision-and-Mediapipe
+This project implements a real-time gesture-based control system using Mediapipe. It enables users to control volume, brightness, and mouse movements via hand gestures detected by a webcam. With fingertip tracking, distance calculations, and tools like PyAutoGUI and PyCaw, it provides an efficient, touch-free human-computer interaction solution.
